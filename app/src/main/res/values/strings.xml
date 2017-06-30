@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SendMeFun</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="send">Send</string>
+    <string name="history">Нistory</string>
+    <string name="check_mark">Check mark</string>
+    <string name="title_history">History</string>
+    <string name="title_settings">Settings</string>
+    <string name="open_navigation_drawer">Open drawer</string>
+    <string name="close_navigation_drawer">Close drawer</string>
+    <string name="clear_history">Clear History</string>
+    <string name="settings">Settings</string>
+    <string name="write_history_mode">History:</string>
+    <string name="chat">Chat</string>
+    <string name="history_is_empty">History is Empty</string>
+</resources>
